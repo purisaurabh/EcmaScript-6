@@ -10,9 +10,6 @@
 
 // var is the function scope and the let and const is global scope
 
-
-
-
 // about var 
 
 /*
