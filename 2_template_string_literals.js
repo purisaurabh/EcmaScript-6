@@ -10,3 +10,8 @@ let first_name = "Immanuel";
 let age = 20;
 
 console.log(`My name is ${first_name} and my name is ${age}`);
+
+let a = 20;
+let b = 30;
+
+console.log(`The sum of a and b is : ${a+b}`);
