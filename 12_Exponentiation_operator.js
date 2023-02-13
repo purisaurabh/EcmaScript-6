@@ -1,0 +1,4 @@
+/*
+
+    the exponentiation operator is use to find the power of any number
+*/
